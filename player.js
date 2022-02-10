@@ -15,8 +15,9 @@ function preload(){
 }
 
 
-fuction setup(){
+function setup(){
 
+    
 
 }
 
